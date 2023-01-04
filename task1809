@@ -1,4 +1,4 @@
-'''Java
+```Java
 package com.javarush.task.task18.task1809;
 
 import java.io.*;
@@ -25,4 +25,4 @@ public class Solution {
         }
     }
 }
-'''
+```
